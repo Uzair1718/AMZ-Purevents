@@ -4,6 +4,7 @@ import { Toaster } from 'react-hot-toast';
 import { MessageSquare, ArrowUp } from 'lucide-react';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
+import { WhatsAppButton } from './components/WhatsAppButton';
 import Home from './components/Home';
 import Contact from './pages/Contact';
 import { Services } from './components/Services';
@@ -50,6 +51,7 @@ function App() {
         </AnimatePresence>
         <Footer />
         <Toaster position="bottom-right" />
+        <WhatsAppButton />
         {showScrollTop && (
           <motion.button
             initial={{ opacity: 0, scale: 0.8 }}
