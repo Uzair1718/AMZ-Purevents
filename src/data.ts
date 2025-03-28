@@ -6,7 +6,7 @@ export const services: Service[] = [
     title: 'Air Duct Cleaning',
     description: 'Improve indoor air quality by removing dust, allergens, and debris from air ducts.',
     icon: 'Wind',
-    image: 'https://images.unsplash.com/photo-1621905251918-48416bd8575a?auto=format&fit=crop&q=80',
+    image: '/images/services/air-duct-cleaning.jpg',
     details: [
       'Complete duct system inspection',
       'Advanced cleaning equipment',
@@ -20,7 +20,7 @@ export const services: Service[] = [
     title: 'Furnace Cleaning',
     description: 'Enhance furnace efficiency by eliminating dirt buildup and ensuring smooth operation.',
     icon: 'Flame',
-    image: 'https://images.unsplash.com/photo-1581094288338-2314dddb7ece?auto=format&fit=crop&q=80',
+    image: '/images/services/furnace-cleaning.jpg',
     details: [
       'Thorough heat exchanger cleaning',
       'Burner inspection',
@@ -34,7 +34,7 @@ export const services: Service[] = [
     title: 'AC Coil Cleaning',
     description: 'Increase cooling efficiency by removing dirt and debris from evaporator and condenser coils.',
     icon: 'Snowflake',
-    image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80',
+    image: '/images/services/ac-coil-cleaning.jpg',
     details: [
       'Evaporator coil cleaning',
       'Condenser coil maintenance',
@@ -48,7 +48,7 @@ export const services: Service[] = [
     title: 'Dryer Vent Cleaning',
     description: 'Prevent fire hazards and improve dryer efficiency by clearing lint buildup.',
     icon: 'Fan',
-    image: 'https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&q=80',
+    image: '/images/services/dryer-vent-cleaning.jpg',
     details: [
       'Lint removal',
       'Fire hazard prevention',
@@ -62,7 +62,7 @@ export const services: Service[] = [
     title: 'Central Vacuum Cleaning',
     description: 'Ensure optimal suction power and system longevity with deep cleaning services.',
     icon: 'Power',
-    image: 'https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&q=80',
+    image: '/images/services/central-vacuum-cleaning.jpg',
     details: [
       'System power restoration',
       'Deep pipe cleaning',
@@ -76,7 +76,7 @@ export const services: Service[] = [
     title: 'Air Filter Replacement',
     description: 'Regular filter replacement for better air quality and HVAC performance.',
     icon: 'Filter',
-    image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80',
+    image: '/images/services/air-filter-replacement.jpg',
     details: [
       'Filter quality assessment',
       'Regular replacement schedule',
@@ -90,7 +90,7 @@ export const services: Service[] = [
     title: 'HVAC System Inspection & Maintenance',
     description: 'Routine checks to ensure HVAC systems are running smoothly.',
     icon: 'Settings',
-    image: 'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80',
+    image: '/images/services/hvac-inspection.jpg',
     details: [
       'Comprehensive system check',
       'Preventive maintenance',
@@ -104,7 +104,7 @@ export const services: Service[] = [
     title: 'Commercial HVAC Cleaning',
     description: 'Professional cleaning for businesses, ensuring compliance with air quality standards.',
     icon: 'Building2',
-    image: 'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80',
+    image: '/images/services/commercial-hvac.jpg',
     details: [
       'Commercial-grade cleaning',
       'Compliance assurance',
