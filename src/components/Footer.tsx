@@ -201,11 +201,9 @@ export const Footer: React.FC = () => {
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
                 >
-                  468 Reynolds Ave SW
+                  We serve in GTA.  GVA.  Calgary
                   <br />
-                  Airdrie, Alberta T4B5G2
-                  <br />
-                  Canada
+                  and surrounding areas
                 </a>
               </li>
               <li className="flex items-center space-x-3">
